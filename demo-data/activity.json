@@ -7,7 +7,7 @@
     "execute": {
       "inArguments": [
         { "contactKey": "{{Contact.Key}}" },
-        { "emailAddress": "{{Contact.Attribute.TestCustomActivityDE.EmailAddress}}"},
+        { "emailAddress": "{{Contact.Attribute.TestCustomActivityDE.EmailAddress}}"}
        
       ],
       "url": "https://enitcwr13hq31po.m.pipedream.net/execute"

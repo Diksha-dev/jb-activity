@@ -40,8 +40,7 @@
     "icon": "https://sample-activity.herokuapp.com/icon.png",
     "category": "message",
     "iconSmall": null,
-    "original_icon": "icon.png",
-    "isConfigured": true
+    "original_icon": "icon.png"
   },
   "editable": true,
   "outcomes": [

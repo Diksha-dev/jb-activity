@@ -16,24 +16,16 @@
   "configurationArguments": {
       "applicationExtensionKey": "d4730baf-890a-4e7d-abe6-4bdbb2b4c058c",
       "save": {
-        "url": "https://enitcwr13hq31po.m.pipedream.net/save",
-          "verb": "POST",
-        "useJwt": true
+        "url": "https://enitcwr13hq31po.m.pipedream.net/save"
        },
        "publish": {
-        "url": "https://enitcwr13hq31po.m.pipedream.net/publish",
-           "verb": "POST",
-        "useJwt": true
+        "url": "https://enitcwr13hq31po.m.pipedream.net/publish"
        },
       "stop": {
-        "url": "https://enitcwr13hq31po.m.pipedream.net/stop",
-           "verb": "POST",
-        "useJwt": true
+        "url": "https://enitcwr13hq31po.m.pipedream.net/stop"
       },
       "validate": {
-        "url": "https://enitcwr13hq31po.m.pipedream.net/validate",
-        "verb": "POST",
-        "useJwt": true
+        "url": "https://enitcwr13hq31po.m.pipedream.net/validate"
       }
     },
   "metaData": {
